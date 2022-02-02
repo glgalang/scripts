@@ -22,6 +22,6 @@ done
 #fi
 
 #echo "Hello GCash Cadets!"
-#echo "Welcome to Shell Scripting!"
+echo "Welcome to Shell Scripting!"
 
 
